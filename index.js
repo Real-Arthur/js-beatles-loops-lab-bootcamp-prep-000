@@ -16,11 +16,11 @@ function theBeatlesPlay(x, y) {
   return z;
   }
   
-  function iLoveTheBeatles(i) {
+  function iLoveTheBeatles(number) {
     var x = [];
     do {
       x.push("I love the Beatles!");
-      i++;
+      number++;
     }
-    while (i < 15);
+    while (number < 15);
   }

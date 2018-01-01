@@ -8,7 +8,6 @@ function theBeatlesPlay(x, y) {
   
   function johnLennonFacts(x) {
     var i = 0;
-    var z = []
     while (i < 1) {
       
       z.push(x)

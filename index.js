@@ -11,9 +11,9 @@ function theBeatlesPlay(x, y) {
     var z = []
     while (i < 1) {
       z.push(x)
-      return `${z}!!!`
+      `${z}!!!`
       i++;
     }
-  
+  return z
     
   }

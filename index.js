@@ -7,7 +7,7 @@ function theBeatlesPlay(x, y) {
   }
   
   function johnLennonFacts(x) {
-    var i = 0;
+    let i = 0;
     while (i < x.length) {
       var z = x[i]
       i++;

@@ -10,8 +10,8 @@ function theBeatlesPlay(x, y) {
     var i = 0;
     var z = []
     while (i < 1) {
-      z.push(`${x}!!!`)
-      
+      z.push(x)
+      return `${z}!!!`
       i++;
     }
     return z

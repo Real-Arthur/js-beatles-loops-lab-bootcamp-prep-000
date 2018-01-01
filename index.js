@@ -19,7 +19,8 @@ function theBeatlesPlay(x, y) {
   function iLoveTheBeatles() {
     var x = [];
     do {
-      
+      x.push("I love the Beatles!")
+      i++
     }
-    
+    while (i < 15)
   }

@@ -16,7 +16,7 @@ function theBeatlesPlay(x, y) {
   return z;
   }
   
-  function iLoveTheBeatles(number) {
+  function iLoveTheBeatles() {
     var x = [];
     var i = 0;
     do {

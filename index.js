@@ -16,9 +16,8 @@ function theBeatlesPlay(x, y) {
   return z;
   }
   
-  function iLoveTheBeatles(number) {
+  function iLoveTheBeatles(i) {
     var x = [];
-    var i = number;
     do {
       x.push("I love the Beatles!");
       i++;

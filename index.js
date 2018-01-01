@@ -7,7 +7,8 @@ function theBeatlesPlay(x, y) {
   }
   
   function johnLennonFacts(x) {
-    var y = y.push(x)
+    var i = 0;
+    while 
     
     
   }

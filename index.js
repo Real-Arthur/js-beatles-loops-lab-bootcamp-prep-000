@@ -6,7 +6,8 @@ function theBeatlesPlay(x, y) {
   return z;
   }
   
-  function johnLennonFacts() {
+  function johnLennonFacts(x) {
+    var y = y.push(x)
     
     
   }

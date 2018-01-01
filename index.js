@@ -6,11 +6,7 @@ function theBeatlesPlay(x, y) {
   return z;
   }
   
-  function johnLennonFacts(x) {
-    var z = [];
-    let i = 0;
-    while (i < z.length) {
-      z.push(x + "!!!");
-      i++;
-    }
+  function johnLennonFacts() {
+    
+    
   }

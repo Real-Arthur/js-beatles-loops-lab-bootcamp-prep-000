@@ -18,9 +18,10 @@ function theBeatlesPlay(x, y) {
   
   function iLoveTheBeatles(number) {
     var x = [];
+    number = i
     do {
       x.push("I love the Beatles!");
-      number++;
+      i++;
     }
-    while (number < 15);
+    while (i < 15);
   }
